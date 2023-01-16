@@ -1,0 +1,3 @@
+ears,eyes,fingers,hands,legs,name,type
+2,2,20,2,2,Egor,monkey
+2,1,19,2,2,Lea,monkey

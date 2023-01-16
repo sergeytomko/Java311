@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Lab0Test" tests="19" skipped="0" failures="0" errors="0" timestamp="2022-11-28T21:54:22" hostname="DESKTOP-PHDPGCK" time="0.04">
+  <properties/>
+  <testcase name="arrayProviderTest[0]([I@5ba88be8, [I@56928307)" classname="Lab0Test" time="0.005"/>
+  <testcase name="arrayProviderTest[1]([I@64bce832, [I@764faa6)" classname="Lab0Test" time="0.001"/>
+  <testcase name="booleanProviderTest[0](10, 11, true)" classname="Lab0Test" time="0.001"/>
+  <testcase name="booleanProviderTest[1](10, 10, false)" classname="Lab0Test" time="0.0"/>
+  <testcase name="booleanProviderTest[2](3, 3, false)" classname="Lab0Test" time="0.0"/>
+  <testcase name="caseProviderTest[0](1, z, y)" classname="Lab0Test" time="0.0"/>
+  <testcase name="caseProviderTest[1](-1, c, v)" classname="Lab0Test" time="0.0"/>
+  <testcase name="forProviderTest[0](1, 1)" classname="Lab0Test" time="0.001"/>
+  <testcase name="forProviderTest[1](2, 1.5)" classname="Lab0Test" time="0.002"/>
+  <testcase name="ifProviderTest[0](10, 10, 20)" classname="Lab0Test" time="0.0"/>
+  <testcase name="ifProviderTest[1](10, 0, 0)" classname="Lab0Test" time="0.0"/>
+  <testcase name="ifProviderTest[2](1, 2, 0)" classname="Lab0Test" time="0.0"/>
+  <testcase name="integerProviderTest[0](365, 56)" classname="Lab0Test" time="0.001"/>
+  <testcase name="integerProviderTest[1](495, 59)" classname="Lab0Test" time="0.0"/>
+  <testcase name="integerProviderTest[2](321, 12)" classname="Lab0Test" time="0.0"/>
+  <testcase name="matrixProviderTest[0](3, 3, [[I@45312be2, [[I@7fb95505)" classname="Lab0Test" time="0.01"/>
+  <testcase name="whileProviderTask[0](99, 4)" classname="Lab0Test" time="0.001"/>
+  <testcase name="whileProviderTask[1](27, 2)" classname="Lab0Test" time="0.001"/>
+  <testcase name="whileProviderTask[2](81, 3)" classname="Lab0Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

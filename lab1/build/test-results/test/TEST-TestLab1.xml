@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestLab1" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-12-12T12:24:00" hostname="DESKTOP-PHDPGCK" time="0.017">
+  <properties/>
+  <testcase name="equalAnimalsProvider[0](Eagle{wings=2, canFly=true, name='Oleg', eyes=2, legs=2, ears=2}, Eagle{wings=2, canFly=true, name='Oleg', eyes=2, legs=2, ears=2}, true)" classname="TestLab1" time="0.01"/>
+  <testcase name="equalAnimalsProvider[1](Monkey{hands=2, fingers=20, name='Egor', eyes=2, legs=2, ears=2}, Monkey{hands=2, fingers=20, name='Egor', eyes=2, legs=2, ears=2}, true)" classname="TestLab1" time="0.0"/>
+  <testcase name="equalAnimalsProvider[2](Monkey{hands=2, fingers=20, name='Egor', eyes=2, legs=2, ears=2}, Eagle{wings=2, canFly=true, name='Oleg', eyes=2, legs=2, ears=2}, false)" classname="TestLab1" time="0.0"/>
+  <testcase name="hashEqualAnimalsProvider[0](Eagle{wings=2, canFly=true, name='Oleg', eyes=2, legs=2, ears=2}, Eagle{wings=2, canFly=true, name='Oleg', eyes=2, legs=2, ears=2})" classname="TestLab1" time="0.001"/>
+  <testcase name="hashEqualAnimalsProvider[1](Monkey{hands=2, fingers=20, name='Egor', eyes=2, legs=2, ears=2}, Monkey{hands=2, fingers=20, name='Egor', eyes=2, legs=2, ears=2})" classname="TestLab1" time="0.0"/>
+  <testcase name="stringEqualAnimalsProvider[0](Eagle{wings=2, canFly=true, name='Oleg', eyes=2, legs=2, ears=2}, Eagle{wings=2, canFly=true, name='Oleg', eyes=2, legs=2, ears=2})" classname="TestLab1" time="0.0"/>
+  <testcase name="stringEqualAnimalsProvider[1](Monkey{hands=2, fingers=20, name='Egor', eyes=2, legs=2, ears=2}, Monkey{hands=2, fingers=20, name='Egor', eyes=2, legs=2, ears=2})" classname="TestLab1" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
